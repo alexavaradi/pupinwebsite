@@ -1,0 +1,65 @@
+body {
+    width: 960px;
+    margin: 20px auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+header {
+    display: block;
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 100px;
+}
+nav {
+    padding: 16px;
+    display: inline-block;
+   
+}
+li a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 25px;
+    color:black;
+    margin: 5px;
+    font-weight: bold;
+    
+   
+}
+
+
+section {
+    float: left;
+    width: 600px;
+    margin-left: 60px;
+    
+}
+aside {
+    
+    float: left;
+    width: 260px;
+    border-right: 1px solid black;
+}
+
+p {
+   
+   font-size: 25px;
+   
+   
+}
+
+footer {
+    display: block;
+    clear: left;
+    border-top: 1px solid rgb(189, 189, 189);
+    font-size: 20px;
+}
+
+img {
+    position: relative;
+    left: 170px;
+}
+
+
+
+
